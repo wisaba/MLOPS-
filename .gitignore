@@ -1,0 +1,21 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore model files
+*.h5
+*.ckpt
+
+# Ignore data files
+data/
+*.csv
+
+# Ignore virtual environment directories
+venv/
+.conda/
+
+# Ignore IDE and system-specific files
+.idea/
+.vscode/
+*.swp
+.DS_Store
