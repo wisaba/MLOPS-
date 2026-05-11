@@ -19,4 +19,36 @@ This repository contains all exercises, assignments, and the final project from 
 - Build CI/CD pipelines for ML projects
 - Implement model monitoring and logging
 
-## 📂 Repository Structure
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+## 📊 Weekly Progress
+
+| Week | Topic | Status | Branch | Due Date |
+|------|-------|--------|--------|----------|
+| 01 | Git & GitHub Basics | ✅ Completed | [`week/01-git-basics`](link) | 2024-01-15 |
+| 02 | Docker Essentials | ✅ Completed | [`week/02-docker`](link) | 2024-01-22 |
+| 03 | MLflow Tracking | 🔄 In Progress | [`week/03-mlflow`](link) | 2024-01-29 |
+| 04 | CI/CD Pipelines | ⏳ Pending | [`week/04-cicd`](link) | 2024-02-05 |
+| 05 | Model Monitoring | ⏳ Pending | [`week/05-monitoring`](link) | 2024-02-12 |
+| Final | End-to-End Project | 📝 Planning | [`final-project`](link) | 2024-02-26 |
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+```bash
+# Required versions
+Python 3.9+
+Docker 20.10+
+Git 2.30+
