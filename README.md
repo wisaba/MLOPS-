@@ -3,10 +3,10 @@
 # 🚀 MLOps Bootcamp - Hamrah Aval
 
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://python.org)
-[![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/mlops-bootcamp)](https://github.com/YOUR_USERNAME/mlops-bootcamp)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)](https://mlflow.org)
+[![GitHub repo size](https://img.shields.io/github/repo-size/wisaba/MLOPS-)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
 
 ## 📋 Overview
 
