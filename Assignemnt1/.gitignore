@@ -1,0 +1,10 @@
+PetImages/
+kagglecatsanddogs_5340*
+*.zip
+*.rar
+*.tar.gz
+
+venv/
+env/
+**/venv/
+dogs_and_cats.pth
