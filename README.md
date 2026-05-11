@@ -1,9 +1,8 @@
 # MLOPS
 
-# 🚀 MLOps Bootcamp - Hamrah Aval
+# 🚀 Mlopss Bootcamp - Hamrah Academy
 
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://python.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)](https://mlflow.org)
 [![GitHub repo size](https://img.shields.io/github/repo-size/wisaba/MLOPS-)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
