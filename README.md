@@ -32,18 +32,6 @@ This repository contains all exercises, assignments, and the final project from 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-## 📊 Weekly Progress
-
-| Week | Topic | Status | Branch | Due Date |
-|------|-------|--------|--------|----------|
-| 01 | Git & GitHub Basics | ✅ Completed | [`week/01-git-basics`](link) | 2024-01-15 |
-| 02 | Docker Essentials | ✅ Completed | [`week/02-docker`](link) | 2024-01-22 |
-| 03 | MLflow Tracking | 🔄 In Progress | [`week/03-mlflow`](link) | 2024-01-29 |
-| 04 | CI/CD Pipelines | ⏳ Pending | [`week/04-cicd`](link) | 2024-02-05 |
-| 05 | Model Monitoring | ⏳ Pending | [`week/05-monitoring`](link) | 2024-02-12 |
-| Final | End-to-End Project | 📝 Planning | [`final-project`](link) | 2024-02-26 |
-
-## 🚀 Quick Start
 
 ### Prerequisites
 
